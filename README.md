@@ -9,7 +9,7 @@ Right now, sharpening my skills at front-end technologies, especially ReactJS, b
 
 I aim to someday be a Product Manager that fully understands the technical and business needs of a product that can positively impact the lives of many people.
 
-- 🔭 I’m currently working on a Legal Startup to make people's rights accessible
+- 🔭 I’m currently working on a Industrial Startup to make the maintenance easier and predictable
 - 💬 Ask me about technical decisions in early startups, my conclusion thesis in university was about it.
 - 📫 Reach me by email: filipetoyoshima@gmail.com
 - ☝️You can also contact me by LinkedIn, linked above
